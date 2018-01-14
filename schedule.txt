@@ -1,0 +1,29 @@
+
+Week of
+		Mon										Wed
+Jan 15		Intro; tech setup; basics of sound					 	Care and feeding of waves; pipe organ demo?
+Jan 22		Music theory review + Mathematics of frequency and pitch			Fourier's big idea; harmonic and nonharmonic sounds		
+Jan 29		Organ demo; the physics of organ pipes						Flex day
+Feb 4		The mathematics of harmony							
+Feb 11
+Feb 18
+Feb 25
+Mar 5
+Mar 19
+Mar 26
+Apr 2
+Apr 9
+Apr 16
+Apr 23
+Apr 30
+
+
+Topics:
+
+Tuning systems
+Mathematics of harmony
+Pipe organ demo
+
+String instruments and normal modes
+Computer sound and synthesis
+
