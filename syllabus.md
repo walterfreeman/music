@@ -14,6 +14,7 @@ use_math: true
 * [Course philosophy](#philosophy)
 * [Activities](#activities)
 * [Grading](#grading)
+* [Policy on late work](#late)
 * [Course policies (students with disabilities, etc.)](#policy)
 
  <a id="contact"></a>
