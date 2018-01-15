@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Technology
-#category: top
+category: top
 permalink: tech.html
-#menu: top
+menu: top
 use_math: true
 ---
 
-In this class we will use several 
+In this class we will use several pieces of technology to take measurements, 

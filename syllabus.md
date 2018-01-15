@@ -242,7 +242,7 @@ Students often ask about submitting work late. I want to try a new policy this s
 maximum flexibility with your work schedules and allow you to work around health issues, other classes, etc., while still
 requiring that the bulk of your work is turned in on time. 
 
-Each of you has ten ``late days'' that you may use without penalty. That is, you may turn in two assignments five days late,
+Each of you has ten "late days" that you may use without penalty. That is, you may turn in two assignments five days late,
 or five assignments two days late, etc., with no loss of credit. (In the case of 
 late homework, I may ask you to have a short discussion with me to ensure that you understand the material and are not just
 copying someone else's work.) If you do want to turn something in late, please email me on the due date and let me know, as 
@@ -255,9 +255,10 @@ please contact me and we'll work something out.
 
 This policy is in place in part to allow students with personal or medical 
 challenges, or who must postpone work due to important religious or family commitments, 
-the flexibility that they need to work around these issues, without disclosing them to me or ``needing to make 
-excuses''. Just turn it in late and use your late-days. I would appreciate feedback about this policy from 
-any students who have chronic physical or mental illness; it is designed to 
+the flexibility that they need to work around these issues, without disclosing them to me or 
+feeling anxious about "needing to make excuses". Just turn it in late and use your late-days. 
+I would appreciate feedback about this policy from 
+any students who have chronic physical or mental illness, as it is designed with your needs in mind.
  
 If you miss class on a day when we have a quiz, you should come to office hours when you are able. After a short discussion in
 which you demonstrate that you understand the material, you'll get a grade for the quiz with no penalty; you may do this up to
