@@ -97,6 +97,7 @@ Some of the topics we will likely cover are:
   * The Western system of pitch and musical notation
   * The anatomy of a keyboard
   * The elements of harmony: consonant and dissonant intervals; major and minor chords/scales
+  * The mathematics of harmony and the connection to waves on a string
   * The relationship between physical properties (frequency, amplitude) and musical description (pitch, volume)
 
 * How musical instruments work
@@ -107,8 +108,9 @@ Some of the topics we will likely cover are:
   * String instruments
     * The general properties of a vibrating string
     * The design and workings of the guitar
-    * The ``stick-slip'' mechanism of violin bows, and orchestra strings
+    * The "stick-slip" mechanism of violin bows, and orchestra strings
     * The piano and the harpsichord
+    * The sitar, and sympathetic vibrations
   * Wind instruments
     * The difference between conical and cylindrical cavities
     * The great granddaddy of them all: the pipe organ
