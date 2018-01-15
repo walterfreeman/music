@@ -23,7 +23,7 @@ use_math: true
 
 -   Instructor: Dr. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215
 -   Class meetings: Mondays and Wednesdays, 2:15-3:35 PM, Physics Building room 208 
--   Help sessions / office hours: TBA 
+-   Help sessions / office hours: TBA based on your preferences
 -   Course website: http://walterfreeman.github.io/music/
 
 ---
@@ -47,7 +47,8 @@ Likewise, to as great of an extent as possible, this is going to be a class wher
 You will be playing musical instruments and making measurements of them, going to concert halls and concerts, and taking acoustic measurement equipment around campus and actually 
 testing things. We will not always be meeting in the same room; this class will involve field trips (at least to Hendricks Chapel and Setnor Auditorium...)
 
-Since this is a new class, and since you all will be doing so many things other than ``coming to class and listening to me be boring'', some things may not go as intended,
+Since this is a new class, and since you all will be doing so many things other than ``coming to class and listening to me talk and boring'', 
+some things may not go as intended,
 and we may wind up needing to improvise. Additionally, you all have diverse backgrounds in the physical sciences, mathematics, and music, and you are likely hoping to get different
 things out of this class. Thus, I appreciate your flexibility as we together make this class into what you all want it to be.
 
@@ -208,12 +209,6 @@ After the midterm, you will have a chance to study the questions you missed and 
 I will ask you questions to see if you've learned the material you didn't know the first time around, and you will have
 the opportunity to earn half of the points you missed back.
 
-**Extra Credit:** Students may earn extra credit generally by teaching anyone (including me!) things we do not already know.
-I anticipate that there are students with widely differing backgrounds. We have physics majors, music majors, and everything
-in between. Thus, if you come to office hours with your classmates and help them out, or show me in other settings or ways 
-that you are helping your classmates, I may at my discretion award extra credit. If you think you are eligible for this, 
-let me know!
-
 <a id = "grading"></a>
 
 ---
@@ -229,8 +224,8 @@ Your final grade will be computed as follows:
 * Midterm exam: 20 points.
 * Final exam: 20 points
 
-Your score will be converted to a percentage and your final grade will be determined from your score by a method to be
-decided on the first day of class. (This document will be updated once you determine this!)
+Your score will be converted to a percentage and your final letter grade will be determined from your score by a method 
+that we will vote on during the first day of class. (This document will be updated once you determine this!)
 
 ---
 
@@ -238,7 +233,7 @@ decided on the first day of class. (This document will be updated once you deter
 
 ### Late Submissions and Class Absences
 
-Students often ask about submitting work late. I want to try a peculiar policy this semester that is designed to give you all
+Students often ask about submitting work late. I want to try a new policy this semester that is designed to give you all
 maximum flexibility with your work schedules and allow you to work around health issues, other classes, etc., while still
 requiring that the bulk of your work is turned in on time. 
 
@@ -251,7 +246,9 @@ since the survey about your background will be vital for me to plan the class go
 
 After you are ten days late turning things in, each day late will result in a loss of 25% credit for the assignment in question.
 However, if you have a serious medical or personal issue that requires accommodation beyond what is provided by this policy,
-please contact me and we'll work something out.
+please contact me and we'll work something out. This policy is in place in part to allow students with personal or medical 
+challenges the flexibility that they need to work around these issues, without disclosing them to me or ``needing to make 
+excuses'': just turn it in late and use your late-days.
  
 If you miss class on a day when we have a quiz, you should come to office hours when you are able. After a short discussion in
 which you demonstrate that you understand the material, you'll get a grade for the quiz with no penalty.
@@ -266,16 +263,20 @@ The exception is Mayfest. No absences without well-documented excuses will be ac
 I try to be quite accommodating of students' medical, disability-related, and personal challenges.
 If there is anything I can do to help you, whether it is related to a disability, a medical condition, or anything else, please let me know. 
 
-I have an excellent working relationship with ODS and will do anything in my power to make your experience in my class a good one. However, you *must* communicate with me; except for emergency situations, I will be much more flexible if I know in advance
-what is going on than if you show up at the end of the term and let me know *then* why you've been missing class all term.
+However, you *must* communicate with me; except for emergency situations, I will be much more flexible if I know in advance
+what is going on than if you show up at the end of the term and let me know *then* why you've been missing class all term. (Of course,
+this doesn't apply to registered ODS students; I don't need to know the details of your medical situation for me to provide accommodations
+they request on your behalf.) 
 
 If you believe that you need accommodations for a disability, please contact the Office of Disability Services (ODS)
 at <a href="http://disabilityservices.syr.edu">disabilityservices.syr.edu</a>, located in Room 309 of 8047 University Avenue, or call (315) 443-4498, TDD: (315) 443-1371 for an appointment to discuss your needs and the process for requesting accommodations. ODS is responsible for coordinating disability-related accommodations and will issue students with documented Disabilities Accommodation Authorization Letters, as appropriate. Since accommodations may require early planning and generally are not provided retroactively, please contact ODS as soon as possible.
 
+I have an excellent working relationship with ODS and will do anything in my power to make your experience in my class a good one. 
 
 **Incompletes:** A grade of "incomplete" may be given to any student who is unable to complete the course material by to the end of the semester due to
 unavoidable problems outside their control. This is a "grade pending" status that allows you to finish up the course in the future and then
-receive a grade. In general, any student who is unable to meaningfully participate in class for a period of two weeks or more due to
+receive a grade without having to retake the course or pay tuition again.
+In general, any student who is unable to meaningfully participate in class for a period of two weeks or more due to
 
 * serious illness or injury, physical or mental;
 * caregiving for the serious illness of a family member;
@@ -303,10 +304,26 @@ Your submissions must reflect your own understanding and work. This means:
 Submitting data that you didn't actually measure (i.e. fabricating observations) will be treated as an extremely serious
 offense.
 
-Syracuse University's academic integrity policy reflects the high value that we, as a university community, place on honesty in academic work. The policy defines our expectations for academic honesty and holds students accountable for the integrity of all work they submit. Students should understand that it is their responsibility to learn about course-specific expectations, as well as about university-wide academic integrity expectations. The university policy governs appropriate citation and use of sources, the integrity of work submitted in exams and assignments, and the veracity of signatures on attendance sheets and other verification of participation in class activities. The policy also prohibits students from submitting the same written work in more than one class without receiving written authorization in advance from both instructors. The presumptive penalty for a first instance of academic dishonesty by an undergraduate student is course failure, accompanied by a transcript notation indicating that the failure resulted from a violation of academic integrity policy. The presumptive penalty for a first instance of academic dishonesty by a graduate student is suspension or expulsion. SU students are required to read an online summary of the university's academic integrity expectations and provide an electronic signature agreeing to abide by them twice a year during pre-term check-in on MySlice. For more information and the
-complete policy, see http://academicintegrity.syr.edu/.
+The boilerplate that the university provides to us:
+> Syracuse University’s Academic Integrity Policy reflects the high value that we, as a university community, place
+> on honesty in academic work. The policy defines our expectations for academic honesty and holds students
+> accountable for the integrity of all work they submit. Students should understand that it is their responsibility
+> to learn about course-specific expectations, as well as about university-wide academic integrity expectations.
+> The policy governs appropriate citation and use of sources, the integrity of work submitted in exams and
+> assignments, and the veracity of signatures on attendance sheets and other verification of participation in class
+> activities. The policy also prohibits students from submitting the same work in more than one class without
+> receiving written authorization in advance from both instructors. Under the policy, students found in violation
+> are subject to grade sanctions determined by the course instructor and non-grade sanctions determined by the
+> School or College where the course is offered as described in the Violation and Sanction Classification Rubric.
+> Syracuse University students are required to read an online summary of the University’s academic integrity
+> expectations and provide an electronic signature agreeing to abide by them twice a year during pre-term checkin
+> on MySlice.
 
-
+The Violation and Sanction Classification Rubric establishes recommended guidelines for the determination
+of grade penalties by faculty and instructors, while also giving them discretion to select the grade penalty they
+believe most suitable, including course failure, regardless of violation level. Any established violation in this
+course that entails substitution of someone else's understanding for your own or academic dishonesty 
+may result in course failure regardless of violation level.
 
 ---
 
