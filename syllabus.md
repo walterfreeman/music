@@ -140,9 +140,10 @@ Some of the topics we will likely cover are:
   * Reflections and room design
   * Computer simulations of concert halls
 
-* Basics of sound recording
+* Basics of sound recording and mastering
   * Microphone angular acceptance and frequency response
   * Equalization, feedback, and miking performers
+  * The ``loudness wars'' and compression
 
 However, the exact content of the class will be determined by *your* wishes, not by some preplanned script of mine. 
 
@@ -163,7 +164,7 @@ These will be graded for effort, not correctness.
 Class participation each day will be graded on an 0-3 scale:
 
 * 0 = absent or not meaningfully participating
-* 1 = present, but participating in a limited way, or substantially late
+* 1 = present, but participating only in a limited way, or substantially late 
 * 2 = present and fully participating
 * 3 = exceptional contributions to the class
 
@@ -171,6 +172,9 @@ A grade of 2 is ``full credit''; a grade of 3 is extra credit.
 
 Attendance will count double on days when students are giving presentations, in order to ensure that your classmates
 benefit from a robust audience. (Those of us who are performers know how disappointing it is to sing for an empty house!)
+
+Students missing class for medical or professional reasons should contact me in advance with an explanation to be given
+an excused absence.
 
 **Hands-on projects:** During the semester I will ask you to do projects involving measuring things. 
 Sometimes we will do this in class; sometimes we will do this by traveling somewhere (like Hendricks Chapel) as 
@@ -229,7 +233,7 @@ that we will vote on during the first day of class. (This document will be updat
 
 ---
 
-<a id="late"</a>
+<a id="late"></a>
 
 ### Late Submissions and Class Absences
 
@@ -246,14 +250,17 @@ since the survey about your background will be vital for me to plan the class go
 
 After you are ten days late turning things in, each day late will result in a loss of 25% credit for the assignment in question.
 However, if you have a serious medical or personal issue that requires accommodation beyond what is provided by this policy,
-please contact me and we'll work something out. This policy is in place in part to allow students with personal or medical 
-challenges the flexibility that they need to work around these issues, without disclosing them to me or ``needing to make 
-excuses'': just turn it in late and use your late-days.
+please contact me and we'll work something out. 
+
+This policy is in place in part to allow students with personal or medical 
+challenges, or who must postpone work due to important religious or family commitments, 
+the flexibility that they need to work around these issues, without disclosing them to me or ``needing to make 
+excuses''. Just turn it in late and use your late-days. I would appreciate feedback about this policy from 
+any students who have chronic physical or mental illness; it is designed to 
  
 If you miss class on a day when we have a quiz, you should come to office hours when you are able. After a short discussion in
-which you demonstrate that you understand the material, you'll get a grade for the quiz with no penalty.
-
-The exception is Mayfest. No absences without well-documented excuses will be accepted on the last Friday of class.
+which you demonstrate that you understand the material, you'll get a grade for the quiz with no penalty; you may do this up to
+twice.
 
 <a id="policy"></a>
 
