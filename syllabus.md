@@ -22,7 +22,8 @@ use_math: true
 
 ### Contact Information
 
--   Instructor: Dr. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215
+-   Instructor: Prof. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215
+  -  Sometimes assisted by: Prof. Britton Plourde, <bplourde@syr.edu>, Physics Building room 219
 -   Class meetings: Mondays and Wednesdays, 2:15-3:35 PM, Physics Building room 208 
 -   Help sessions / office hours: TBA based on your preferences
 -   Course website: http://walterfreeman.github.io/music/
@@ -31,7 +32,14 @@ use_math: true
 
 <a id="books"></a>
 
-### Textbooks
+### Textbooks and required purchases
+
+* Required: *Horns, Strings, and Harmony*, by Arthur Benade : <a href="https://www.amazon.com/Horns-Strings-Harmony-Dover-Books/dp/0486273318/">$12 on Amazon</a>
+* Optional:
+  * *Fundamentals of Musical Acoustics*, by Arthur Benade  (I will have a few copies of this available to loan out starting next week) : <a href="https://www.amazon.com/Fundamentals-Musical-Acoustics-Second-Revised/dp/048626484X/">Also $12 on Amazon</a>
+
+* iOS users should purchase a realtime spectrum analyzer app. I do not have an Apple device, but I am told that SpectrumView is a good one by Prof. Plourde. There is a free version; a feature you probably want is available for $10.
+* There is a free Android spectrum analyzer app available called "FFT Spectrum Analyzer".
 
 <a id="philosophy"></a>
 
@@ -41,14 +49,14 @@ use_math: true
 
 #### 1. Exploration, adventure, and flexibility
 
-This course will involve a great deal of exploration. We've not taught a course like this at Syracuse before, and so you all are getting on the ground floor of a new 
+This course will involve a great deal of exploration. We've not taught a course like this at Syracuse for a long time, and so you all are getting on the ground floor of a new 
 course in development. So, if you have an idea for something you'd like to study, let me know; I want this class to be about what *you* want it to be about.
 
 Likewise, to as great of an extent as possible, this is going to be a class where you all explore the science of sound and music actively, rather than sitting in class taking notes.
 You will be playing musical instruments and making measurements of them, going to concert halls and concerts, and taking acoustic measurement equipment around campus and actually 
 testing things. We will not always be meeting in the same room; this class will involve field trips (at least to Hendricks Chapel and Setnor Auditorium...)
 
-Since this is a new class, and since you all will be doing so many things other than ``coming to class and listening to me talk and boring'', 
+Since this is a new class, and since you all will be doing so many things other than "coming to class and listening to me talk and boring", 
 some things may not go as intended,
 and we may wind up needing to improvise. Additionally, you all have diverse backgrounds in the physical sciences, mathematics, and music, and you are likely hoping to get different
 things out of this class. Thus, I appreciate your flexibility as we together make this class into what you all want it to be.
@@ -56,9 +64,9 @@ things out of this class. Thus, I appreciate your flexibility as we together mak
 
 #### 2. Interdisciplinary approach
 
-This course is taught in the physics department, but it is part of the College of Arts and Sciences -- since ``art'' and ``science'' are not so different from one another.
+This course is taught in the physics department, but it is part of the College of Arts and Sciences -- since "art" and "science" are not so different from one another.
 In our course I hope to bring together the two practices, helping students with more of a science background understand the fascinating applications of their scientific 
-principles on stage, and helping musicians understand the scientific principles behind the art that we all love. The aim is not to ``meet in the middle'' someplace, but
+principles on stage, and helping musicians understand the scientific principles behind the art that we all love. The aim is not to "meet in the middle" someplace, but
 to create a broader perspective that weaves together the practical and artistic expertise of musicians with the analytical methods of physics.
 
 
@@ -83,15 +91,17 @@ if you have feedback for me that will help you enjoy the class more, then please
 Some of the topics we will likely cover are:
 
 * The nature of sound itself
-  * What does it mean that ``sound is a wave''?
+  * What does it mean that "sound is a wave"?
   * The properties of sound waves
   * The connection between the technical description of sounds and what we hear
-  * ``Fourier's trick'': *any* signal can be described as a combination of frequencies
+  * "Fourier's trick": *any* signal can be described as a combination of frequencies
   * Human hearing and microphones
 
 * The biggest idea of the class: standing-wave resonance
   * Waves can be trapped in cavities like strings, organ pipes, drumheads, bells, etc.
   * Those cavities allow vibrations only at certain special frequencies, determined by their shape
+  * The special "harmonic sequence" of the frequencies allowed in certain cavities...
+  * ... and their relation to an important defect in human hearing, microphones, and speakers
 
 * Some basic music theory
   * The Western system of pitch and musical notation
@@ -99,7 +109,7 @@ Some of the topics we will likely cover are:
   * The elements of harmony: consonant and dissonant intervals; major and minor chords/scales
   * The mathematics of harmony and the connection to waves on a string
   * The relationship between physical properties (frequency, amplitude) and musical description (pitch, volume)
-
+    
 * How musical instruments work
   * What almost all musical instruments have in common:
     * They trap waves in a *cavity*
@@ -110,7 +120,7 @@ Some of the topics we will likely cover are:
     * The design and workings of the guitar
     * The "stick-slip" mechanism of violin bows, and orchestra strings
     * The piano and the harpsichord
-    * The sitar, and sympathetic vibrations
+    * The sitar, sympathetic vibrations, and the magic of modern digital pianos
   * Wind instruments
     * The difference between conical and cylindrical cavities
     * The great granddaddy of them all: the pipe organ
@@ -122,7 +132,7 @@ Some of the topics we will likely cover are:
     * Cymbals
   * The human voice
     * How ordinary speech works
-    * How singing works and the ``singer's formant''
+    * How singing works and the "singer's formant"
     * Differences between people's voices
     * The extremes of the voice
     * The choir
@@ -139,14 +149,14 @@ Some of the topics we will likely cover are:
   * Digital synthesis and sampling
 
 * Acoustics of performance spaces
-  * Reverb
+  * Reverb and its influence on musical performances and styles
   * Reflections and room design
   * Computer simulations of concert halls
 
 * Basics of sound recording and mastering
   * Microphone angular acceptance and frequency response
   * Equalization, feedback, and miking performers
-  * The ``loudness wars'' and compression
+  * The "loudness wars" and compression
 
 However, the exact content of the class will be determined by *your* wishes, not by some preplanned script of mine. 
 
@@ -160,7 +170,7 @@ However, the exact content of the class will be determined by *your* wishes, not
 
 **Class participation:** Your participation in class is exceptionally important in a small class like this. 
 At a minimum, you are expected to come to class every day and actively participate in discussions. 
-I may assign ``warmup questions'' -- short questions that I ask you at the end of a day's class 
+I may assign "warmup questions" -- short questions that I ask you at the end of a day's class 
 and ask you to think about and answer via Google Forms before the next class as a starting point for discussion. 
 These will be graded for effort, not correctness.
 
@@ -171,7 +181,7 @@ Class participation each day will be graded on an 0-3 scale:
 * 2 = present and fully participating
 * 3 = exceptional contributions to the class
 
-A grade of 2 is ``full credit''; a grade of 3 is extra credit.
+A grade of 2 is "full credit"; a grade of 3 is extra credit.
 
 Attendance will count double on days when students are giving presentations, in order to ensure that your classmates
 benefit from a robust audience. (Those of us who are performers know how disappointing it is to sing for an empty house!)
