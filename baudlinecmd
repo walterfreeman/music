@@ -1,0 +1,1 @@
+parec --format=s16le --channels=1 --latency-msec=5 | baudline -stdin

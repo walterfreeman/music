@@ -241,8 +241,20 @@ Your final grade will be computed as follows:
 * Midterm exam: 20 points.
 * Final exam: 20 points
 
-Your score will be converted to a percentage and your final letter grade will be determined from your score by a method 
-that we will vote on during the first day of class. (This document will be updated once you determine this!)
+Your score will be converted to a percentage and your final letter grade will be determined according to the following
+scheme:
+
+* 88-100 : A
+* 80-88  : A-
+* 75-80  : B+
+* 70-75  : B
+* 65-70  : B-
+* 62-65  : C+
+* 58-62  : C
+* 55-58  : C-
+* 50-55  : D
+* under 50 : F
+
 
 ---
 

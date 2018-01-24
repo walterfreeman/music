@@ -1,0 +1,13 @@
+set terminal pdf size 8,6
+set output "logpitch.pdf"
+set xlabel "Halfsteps above middle A"
+set x2label "Octaves above middle A"
+set mytics
+set xtics -24,12,24
+set x2tics ("-2" -24, "-1" -12, "0" 0, "+1" 12, "+2" 24)
+set mxtics 12
+set grid ytics lt 0 lw 1 lc rgb "#222222"
+set grid xtics lt 0 lw 1 lc rgb "#222222"
+set grid xtics ytics mxtics mytics lt 1 lw 1 lc rgb "#222222",lt 1 lw 1 lc rgb "#222222",lt 0 lw 0.5 lc rgb "#999999",lt 0 lw 0.5 lc rgb "#999999"
+set logscale y
+plot "tt2" with points notitle
