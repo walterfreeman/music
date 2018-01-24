@@ -16,10 +16,9 @@ I've decided to hold office hours:
 
 Here's a piano keyboard for reference:
 
-<center><img src="piano_keyboard_picture.jpg">
+<img src="piano_keyboard_picture.jpg">
 
 Here's a <a href="https://www.onlinepianist.com/virtual-piano">virtual piano</a> you can play on your computer/tablet.
-
 
 
 ### After class today you should:
@@ -44,4 +43,4 @@ or if anything today wasn't clear
 * Discuss where the harmonic series/overtones that we observe comes from in the first place
 * Start our study of stringed instruments
 
-<center><img src="timpanist.jpg">
+<center><img src="timpanist.jpg"></center>
