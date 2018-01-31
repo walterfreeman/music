@@ -1,0 +1,129 @@
+\documentclass[10pt]{article}
+\setlength\parindent{0pt}
+\setlength\parskip{1em}
+\usepackage{fullpage}
+\usepackage{epsf}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{fullpage}
+\usepackage{graphicx}
+\usepackage{musixtex}
+\begin{document}
+
+\begin{center} \Large Pitch-Frequency Tutorial \end{center}
+
+The purpose of this guide is to figure out the connection between the pitch and the fundamental frequency of a note. The precise meanings of these terms are:
+
+\begin{itemize}
+  \item {\bf Pitch:} How high a note sounds to our ears. This is a musical term; for instance, we would say that the note $A_4$ has a pitch one octave higher than $A_3$.
+  \item {\bf Fundamental frequency:} The lowest frequency of a musical tone, which is also the spacing between the harmonics produced. For instance, we might say that a
+    note has a fundamental frequency of 440 Hz. This is a scientific term.
+\end{itemize}
+
+As we will see, it's only {\it relative} frequency that matters for things related to harmony. So we are free to choose a starting point: we need to pick the 
+frequency of {\it one} note on the piano keyboard. The mathematics of harmony will let us work out all the others (in an exercise you will complete today!).
+
+{\bf Discuss with your neighbors how we should do this, then we'll talk about it. On the jumbo-sized grand staff provided, fill in the frequency of our starting point.}
+
+
+\vspace{1in}
+
+\section{Figuring out the frequency difference of an octave}
+
+We have lots of musical instruments in this room: a guitar (which some of you will know how to play, but anyone can poke at), a piano (which you all can play!), and those of you with 
+laptops or tablets can Google ``online piano''. 
+
+{\bf Using one of these instruments -- or your own voices! -- figure out how the fundamental frequency of a note changes when you go up by an octave.}
+
+Your statement will take one of two forms:
+
+\begin{itemize}
+  \item \it When the pitch of a note increases by an octave, you add \underline{\hspace{1in}} Hz to the frequency.
+  \item \it When the pitch of a note increases by an octave, you multiply the frequency by a factor of \underline{\hspace{1in}}.
+\end{itemize}
+
+If you already know the answer to this, don't tell your group; the point is to figure it out. But you may help them figure it out!
+
+{\bf Once you've figured this out, fill in the fundamental frequency of all the A's on your staff, based on the frequency of middle A you chose earlier.}
+
+\medskip
+
+
+\newpage
+
+\section{Math language}
+
+{\bf What is the ratio between the frequency of the note $C_6$ (the highest note women are usually asked to sing) and the frequency of the note $C_2$ (the lowest
+note men are usually asked to sing?}
+
+\vspace{1.5in}
+
+{\bf In algebra terms, how would you write the mathematical relationship between the number of octaves $\mathcal O$ and the frequency ratio $R$? That is,
+$R$ is some function of $\mathcal O$; what is it? (Hint: how do you write ``multiply by two this many times?'')}
+
+\vspace{1.5in}
+
+{\bf Now invert the previous formula, to get $\mathcal O$ as a function of $R$. This involves logarithms.} If you 
+already know how to do this, go ahead and do it. If you don't, ask me and I'll show you what a logarithm is. It's far simpler than your algebra teacher
+made it out to be. :)
+
+
+\newpage
+
+\section{Figuring out the frequency difference of a semitone/halfstep}
+
+Now, we need to fill in the other notes. Remember that a halfstep is 1/12 of an octave, a fifth is 7/12 of an octave, and so on.
+In symbols, we could say that $N$ halfsteps is equal to $N/12$ octaves -- or $\mathcal O = N/12$.
+
+Recall that on the previous page you found out that, if note 2 is $O$ octaves above note 1, you know that 
+
+$$
+\large \frac{\rm Frequency\, of\, note\, 2}{\rm Frequency\,of\,note\,1} = 2^\mathcal O
+$$
+
+This means that
+
+$$
+\large \frac{f_2}{f_1} = 2^{N/12}
+$$
+
+This formula lets you calculate the frequency of any pitch on the piano. As a warmup, calculate the frequency of middle C, and fill it in on your staff.
+(Remember, you know the frequency of middle A is 440 Hz. So let that be your $f_1$, and solve for $f_2$.)
+
+\vspace{1in}
+
+\bf So, if the interval of an octave represents a factor of 2 in frequency, what factor does the interval of a halfstep represent? Make a statement 
+similar to your previous one:
+
+\it When the pitch of a note increases by a semitone, you multiply the frequency by a factor of \underline{\hspace{1in}}.
+\rm
+\vspace{1in}
+
+Now, get into groups of four and work in pairs.
+
+One pair of people should calculate frequencies from middle A ($A_4$, which is 440 Hz) all the way up to $C_6$ (that is, two octaves
+above middle C), and record those on the grand staff. (You only need one copy of this.) Then, calculate the frequency of $C_2$ (two octaves
+below middle C) and record it.
+
+The other pair of people should calculate frequencies from middle A down to $C_3$ (that is, one octave below middle C) and record those.
+
+One group of four will work on the board, so we have a record for the whole class to see.
+
+\newpage
+
+\section{The chord of nature}
+
+We noticed earlier that musical tones consist of lots of frequencies that are all multiples of the fundamental.
+
+Take a low note: $C_2$, the lowest note a cello can play, and the lowest note men are usually asked to sing. 
+
+\begin{itemize}
+  \item What is its fundamental frequency?
+
+  \item What are the other frequencies produced when someone plays/sings this note?
+
+  \item Using our labeled staff on the board, what {\it other notes} have these fundamental frequencies?
+
+  \item Two people who have never played the piano before: come find and play those notes all at once on the keyboard!
+\end{itemize}
+\end{document}

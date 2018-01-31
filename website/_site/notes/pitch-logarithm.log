@@ -1,0 +1,586 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.30)  24 JAN 2018 11:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**pitch-logarithm.tex
+(./pitch-logarithm.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+\epsffilein=\read1
+\epsfframemargin=\dimen103
+\epsfframethickness=\dimen104
+\epsfrsize=\dimen105
+\epsftmp=\dimen106
+\epsftsize=\dimen107
+\epsfxsize=\dimen108
+\epsfysize=\dimen109
+\pspoints=\dimen110
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen111
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks17
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/share/texlive/texmf-dist/tex/latex/musixtex/musixtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/musixtex/musixtex.tex
+MusiXTeX(c) 1.20 <2015-12-13>
+\n@i=\count100
+\n@ii=\count101
+\n@iii=\count102
+\n@iv=\count103
+\n@v=\count104
+\n@vi=\count105
+\n@vii=\count106
+\n@viii=\count107
+\toks@box=\box28
+\w@rkbox=\box29
+\n@otebox=\box30
+\y@=\dimen122
+\y@i=\dimen123
+\y@ii=\dimen124
+\y@iii=\dimen125
+\y@iv=\dimen126
+\y@v=\dimen127
+\group@no=\count108
+\interinstrument=\dimen128
+\N@s=\count109
+\s@Y=\dimen129
+\lin@pos=\dimen130
+\meet@minus@n@iv=\count110
+\interbeam=\dimen131
+\b@amthick=\dimen132
+\Interligne=\dimen133
+\Internote=\dimen134
+\ch@box=\box31
+\musicsize=\count111
+\qd@skip=\dimen135
+\qn@width=\dimen136
+\wn@width=\dimen137
+\txt@ff=\skip47
+\s@indent=\skip48
+\big@spc=\skip49
+\lthick=\dimen138
+\afterruleskip=\skip50
+\staffbotmarg=\dimen139
+\stafftopmarg=\dimen140
+\line@width=\dimen141
+\interportee=\dimen142
+\noport@@=\count112
+\noinstrum@nt=\count113
+\altportee=\dimen143
+\systemheight=\dimen144
+\altplancher=\dimen145
+\instrum@in@group=\skip51
+\boxitsep=\skip52
+\barsinpi@c@=\count114
+\barno=\count115
+\startbarno=\count116
+\sign@skip=\dimen146
+\maxsign@skip=\dimen147
+\x@skip=\dimen148
+\n@skip=\dimen149
+\beforeruleskip=\skip53
+\widthtyp@=\count117
+\lastbarno=\count118
+\cut@v=\skip54
+\init@volta@pos=\skip55
+\volta@startcor=\skip56
+\volta@endcor=\skip57
+\writ@volta@box=\box32
+\barsinlin@=\count119
+\maxbarsinlin@=\count120
+\lastbarpos=\skip58
+\ut@ref=\count121
+\meterskip=\skip59
+\t@c=\toks20
+\clef@skip=\skip60
+\noteskip=\dimen150
+\transpose=\count122
+\normaltranspose=\count123
+\locx@skip=\dimen151
+\elemskip=\dimen152
+\@l@mskip=\dimen153
+\inh@alt=\count124
+\st@bot=\dimen154
+\st@top=\dimen155
+\stem@skip=\dimen156
+\s@lope=\dimen157
+\y@vi=\dimen158
+\lift@rest=\dimen159
+\accshift=\skip61
+\@icresc=\skip62
+\@itrillei=\skip63
+\@itrilleii=\skip64
+\@itrilleiii=\skip65
+\@itrilleiv=\skip66
+\@itrillev=\skip67
+\@itrillevi=\skip68
+\tr@number=\count125
+\o@swz=\toks21
+\o@number=\count126
+\y@vii=\dimen160
+\y@viii=\dimen161
+\y@ix=\dimen162
+\tuptxtb@x=\box33
+\notes@open=\count127
+\k@ii=\skip69
+\i@ni=\dimen163
+\b@xi=\dimen164
+\b@zi=\dimen165
+\c@xi=\dimen166
+\c@zi=\skip70
+\d@xi=\dimen167
+\d@zi=\skip71
+\e@xi=\dimen168
+\e@zi=\skip72
+\b@pi=\count128
+\b@ni=\count129
+\n@pi=\count130
+\a@si=\count131
+\o@si=\count132
+\a@ci=\toks22
+\o@ci=\toks23
+\m@ti=\toks24
+\k@iii=\skip73
+\i@nii=\dimen169
+\b@xii=\dimen170
+\b@zii=\dimen171
+\c@xii=\dimen172
+\c@zii=\skip74
+\d@xii=\dimen173
+\d@zii=\skip75
+\e@xii=\dimen174
+\e@zii=\skip76
+\b@pii=\count133
+\b@nii=\count134
+\n@pii=\count135
+\a@sii=\count136
+\o@sii=\count137
+\a@cii=\toks25
+\o@cii=\toks26
+\m@tii=\toks27
+\k@iiii=\skip77
+\i@niii=\dimen175
+\b@xiii=\dimen176
+\b@ziii=\dimen177
+\c@xiii=\dimen178
+\c@ziii=\skip78
+\d@xiii=\dimen179
+\d@ziii=\skip79
+\e@xiii=\dimen180
+\e@ziii=\skip80
+\b@piii=\count138
+\b@niii=\count139
+\n@piii=\count140
+\a@siii=\count141
+\o@siii=\count142
+\a@ciii=\toks28
+\o@ciii=\toks29
+\m@tiii=\toks30
+\k@iiv=\skip81
+\i@niv=\dimen181
+\b@xiv=\dimen182
+\b@ziv=\dimen183
+\c@xiv=\dimen184
+\c@ziv=\skip82
+\d@xiv=\dimen185
+\d@ziv=\skip83
+\e@xiv=\dimen186
+\e@ziv=\skip84
+\b@piv=\count143
+\b@niv=\count144
+\n@piv=\count145
+\a@siv=\count146
+\o@siv=\count147
+\a@civ=\toks31
+\o@civ=\toks32
+\m@tiv=\toks33
+\k@iv=\skip85
+\i@nv=\dimen187
+\b@xv=\dimen188
+\b@zv=\dimen189
+\c@xv=\dimen190
+\c@zv=\skip86
+\d@xv=\dimen191
+\d@zv=\skip87
+\e@xv=\dimen192
+\e@zv=\skip88
+\b@pv=\count148
+\b@nv=\count149
+\n@pv=\count150
+\a@sv=\count151
+\o@sv=\count152
+\a@cv=\toks34
+\o@cv=\toks35
+\m@tv=\toks36
+\k@ivi=\skip89
+\i@nvi=\dimen193
+\b@xvi=\dimen194
+\b@zvi=\dimen195
+\c@xvi=\dimen196
+\c@zvi=\skip90
+\d@xvi=\dimen197
+\d@zvi=\skip91
+\e@xvi=\dimen198
+\e@zvi=\skip92
+\b@pvi=\count153
+\b@nvi=\count154
+\n@pvi=\count155
+\a@svi=\count156
+\o@svi=\count157
+\a@cvi=\toks37
+\o@cvi=\toks38
+\m@tvi=\toks39
+maxinstruments=6
+\f@xi=\dimen199
+\f@zi=\skip93
+\f@xii=\dimen256
+\f@zii=\skip94
+\f@xiii=\dimen257
+\f@ziii=\skip95
+\f@xiv=\dimen258
+\f@ziv=\skip96
+\f@xv=\dimen259
+\f@zv=\skip97
+\f@xvi=\dimen260
+\f@zvi=\skip98
+ max128beams=6
+\g@bi=\skip99
+\g@hi=\skip100
+\g@bii=\skip101
+\g@hii=\skip102
+\g@biii=\skip103
+\g@hiii=\skip104
+ maxgroups=3
+\s@xi=\dimen261
+\s@si=\toks40
+\s@Yi=\dimen262
+\s@ai=\skip105
+\s@yi=\count158
+\s@Ni=\count159
+\s@zi=\count160
+\s@di=\toks41
+\s@xii=\dimen263
+\s@sii=\toks42
+\s@Yii=\dimen264
+\s@aii=\skip106
+\s@yii=\count161
+\s@Nii=\count162
+\s@zii=\count163
+\s@dii=\toks43
+\s@xiii=\dimen265
+\s@siii=\toks44
+\s@Yiii=\dimen266
+\s@aiii=\skip107
+\s@yiii=\count164
+\s@Niii=\count165
+\s@ziii=\count166
+\s@diii=\toks45
+\s@xiv=\dimen267
+\s@siv=\toks46
+\s@Yiv=\dimen268
+\s@aiv=\skip108
+\s@yiv=\count167
+\s@Niv=\count168
+\s@ziv=\count169
+\s@div=\toks47
+\s@xv=\dimen269
+\s@sv=\toks48
+\s@Yv=\dimen270
+\s@av=\skip109
+\s@yv=\count170
+\s@Nv=\count171
+\s@zv=\count172
+\s@dv=\toks49
+\s@xvi=\dimen271
+\s@svi=\toks50
+\s@Yvi=\dimen272
+\s@avi=\skip110
+\s@yvi=\count173
+\s@Nvi=\count174
+\s@zvi=\count175
+\s@dvi=\toks51
+ maxslurs=6
+\tr@xi=\skip111
+\tr@swi=\toks52
+\tr@yi=\skip112
+\tr@xii=\skip113
+\tr@swii=\toks53
+\tr@yii=\skip114
+\tr@xiii=\skip115
+\tr@swiii=\toks54
+\tr@yiii=\skip116
+\tr@xiv=\skip117
+\tr@swiv=\toks55
+\tr@yiv=\skip118
+\tr@xv=\skip119
+\tr@swv=\toks56
+\tr@yv=\skip120
+\tr@xvi=\skip121
+\tr@swvi=\toks57
+\tr@yvi=\skip122
+ maxtrills=6
+\o@xi=\skip123
+\o@yi=\skip124
+\o@swi=\toks58
+\o@xii=\skip125
+\o@yii=\skip126
+\o@swii=\toks59
+\o@xiii=\skip127
+\o@yiii=\skip128
+\o@swiii=\toks60
+\o@xiv=\skip129
+\o@yiv=\skip130
+\o@swiv=\toks61
+\o@xv=\skip131
+\o@yv=\skip132
+\o@swv=\toks62
+\o@xvi=\skip133
+\o@yvi=\skip134
+\o@swvi=\toks63
+
+maxoctlines=6
+\outmux=\write3
+\mulooseness=\count176
+\linegoal=\count177
+\l@eftrightbox=\box34
+\inmux=\read2
+) (/usr/share/texlive/texmf-dist/tex/latex/musixtex/musixltx.tex
+MusiXLaTeX T.61 <25 September 1996>
+)) (./pitch-logarithm.aux)
+\openout1 = `pitch-logarithm.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count178
+\scratchdimen=\dimen273
+\scratchbox=\box35
+\nofMPsegments=\count179
+\nofMParguments=\count180
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count181
+\MPscratchDim=\dimen274
+\MPnumerator=\count182
+\makeMPintoPDFobject=\count183
+\everyMPtoPDFconversion=\toks65
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\openout3 = `pitch-logarithm.mx1'.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 18.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+
+Overfull \hbox (9.41129pt too wide) in paragraph at lines 42--43
+[]\OT1/cmr/m/it/10 When the pitch of a note in-creases by an oc-tave, you mul-t
+i-ply the fre-quency by a fac-tor of $[]$. 
+
+\hbox(6.94444+1.9999)x444.75499, glue set - 1.0 []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 81.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 87.
+
+[3] [4] (./pitch-logarithm.aux) ) 
+Here is how much of TeX's memory you used:
+ 4067 strings out of 493029
+ 43561 string characters out of 6136234
+ 112786 words of memory out of 5000000
+ 7503 multiletter control sequences out of 15000+600000
+ 36183 words of font info for 129 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,4n,23p,264b,141s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on pitch-logarithm.pdf (4 pages, 121078 bytes).
+PDF statistics:
+ 57 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
