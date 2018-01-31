@@ -1,0 +1,169 @@
+\documentclass[12pt]{article}
+\setlength\parindent{0pt}
+\usepackage{fullpage}
+\usepackage{hyperref}
+\setlength{\parskip}{4mm}
+\def\LL{\left\langle}   % left angle bracket
+\def\RR{\right\rangle}  % right angle bracket
+\def\LP{\left(}         % left parenthesis
+\def\RP{\right)}        % right parenthesis
+\def\LB{\left\{}        % left curly bracket
+\def\RB{\right\}}       % right curly bracket
+\def\PAR#1#2{ {{\partial #1}\over{\partial #2}} }
+\def\PARTWO#1#2{ {{\partial^2 #1}\over{\partial #2}^2} }
+\def\PARTWOMIX#1#2#3{ {{\partial^2 #1}\over{\partial #2 \partial #3}} }
+\newcommand{\BI}{\begin{itemize}}
+\newcommand{\EI}{\end{itemize}}
+\newcommand{\BE}{\begin{displaymath}}
+\newcommand{\EE}{\end{displaymath}}
+\newcommand{\BNE}{\begin{equation}}
+\newcommand{\ENE}{\end{equation}}
+\newcommand{\BEA}{\begin{eqnarray}}
+\newcommand{\EEA}{\nonumber\end{eqnarray}}
+\newcommand{\EL}{\nonumber\\}
+\newcommand{\la}[1]{\label{#1}}
+\newcommand{\ie}{{\em i.e.\ }}
+\newcommand{\eg}{{\em e.\,g.\ }}
+\newcommand{\cf}{cf.\ }
+\newcommand{\etc}{etc.\ }
+\newcommand{\Tr}{{\rm tr}}
+\newcommand{\etal}{{\it et al.}}
+\newcommand{\OL}[1]{\overline{#1}\ } % overline
+\newcommand{\OLL}[1]{\overline{\overline{#1}}\ } % double overline
+\newcommand{\OON}{\frac{1}{N}} % "one over N"
+\newcommand{\OOX}[1]{\frac{1}{#1}} % "one over X"
+
+\begin{document}
+\Large
+\centerline{\sc{Physics of Music Homework 2}}
+\centerline{\large Due Monday, 12 February, printed and handed to me at the beginning of class}
+\normalsize
+
+\bigskip
+\bigskip
+
+   In class, we observed that the frequency ratio corresponding to the interval of an octave is 2, and the frequency ratio corresponding to $\mathcal O$ octaves is $2^\mathcal O$.
+    Observing that a halfstep is 1/12 of an octave, we note that 
+
+    $$\frac{\rm fundamental\,of\,note\,\beta}{\rm fundamental\,of\,note\,\alpha} = \frac{f_\beta}{f_\alpha} = 2^{N/12}$$
+
+    where $N$ is the interval in halfsteps from $\alpha$ up to $\beta$. (Note that if $\alpha$ is higher than $\beta$, the exponent is negative, but this doesn't break anything,
+    since a negative exponent just gives a fraction less than one.)
+
+
+   In class, we had students calculate the pitches of the notes whose fundamentals most closely matched the overtones of the note $C_2$, and saw that the harmonics of $C_2$
+    spell out a chord with $C_2$, $C_3$, $G_3$, $C_4$, $E_4$, $G_4$, $B\flat_4$, and $C_5$. This is sometimes called the ``chord of nature''.
+
+  
+
+    \begin{enumerate}
+      \item What are the named musical intervals between these notes? (For instance, what is the distance from $C_2$ to $C_3$, from $C_3$ to $G_3$, and so forth?)
+
+	A reference to the names of intervals:
+
+	\BI
+      \item One halfstep: ``halfstep'', ``semitone'', ``minor second''
+      \item Two halfsteps: ``whole step'', ``major second''
+      \item Three halfsteps: ``minor third''
+      \item Four halfsteps: ``major third''
+      \item Five halfsteps: ``fourth'' or ``perfect fourth''
+      \item Six halfsteps: ``tritone''
+      \item Seven halfsteps: ``fifth'' or ``perfect fifth''
+      \item Eight halfsteps: ``minor sixth''
+      \item Nine halfsteps: ``major sixth''
+      \item Ten halfsteps: ``minor seventh''
+      \item Eleven halfsteps: ``major seventh''
+      \item Twelve halfsteps: ``octave''
+	\EI
+
+	Start making a table of these -- ultimately, you'll be creating something like this:
+
+	    \small
+	  \begin{tabular}{| c | c | c | c | c |}
+	    \hline
+	    Interval            & Name of interval & Frequency ratio & Frequency ratio                     & Ratio of these                               \\
+	                        &                  &(equitempered tuning) &                 (harmonic sequence) &            \\
+	    \hline
+	    $C_2 \rightarrow C_3$ &      &                            &                                     &                                  \\
+	    \hline
+	    $C_3 \rightarrow G_3$ &      &                            &                                     &                                  \\
+	    \hline
+	    $G_3 \rightarrow C_4$ &      &                            &                                     &                                  \\
+	    \hline
+	    $C_4 \rightarrow E_4$ &      &                            &                                     &                                  \\
+	    \hline
+	    $E_4 \rightarrow G_4$ &      &                            &                                     &                                  \\
+	    \hline4
+	    $G_4 \rightarrow B^\flat_4$ &  &                                &                                     &                                  \\
+	    \hline
+	    $B\flat_4 \rightarrow C_5$ &  &                                &                                     &                                  \\
+	    \hline
+	  \end{tabular}
+
+
+     \item Calculate, using the formula from above, what the frequency ratio is that corresponds to each of those intervals in the ``chord of nature'', based on our previous
+       ideas about how to tune the piano. (This is called ``equitempered tuning''.)
+       For example, the interval from $C_3$ to $G_3$ is a perfect fifth, and has the ratio $2^{7/12} = 1.4983$. (Carry these calculations to four decimal places. This will matter later!)
+
+	Add this to your table.
+
+     \item We have a choice here, however! In class, we decided that we would tune our piano by slicing the octave into twelve equal parts. 
+       (This is the tuning system used by modern pianos.) However, perhaps we should instead define
+       these intervals by the frequencies of the overtones of $C_2$, giving us intervals that correspond to fractions of small integers. (For instance, a fifth is the distance 
+	from the third harmonic to the second harmonic = $3/2 = 1.5000$.
+
+	Do this for all of the intervals that appear in the ``chord of nature'', and add these to your table.
+
+      \item Now, for each interval, you will have calculated its size in two different ways: once where we allow the harmonic sequence to be the ``authority'' on how big intervals should be,
+	and once where we allow our earlier procedure -- ``cut the octave into twelve equal pieces and thus define a semitone as $2^{1/12}$'' -- to be the authority.
+
+	As a way of computing how much they agree or disagree, compute the ratio between the two methods. (For instance, the degree of disagreement in our definition
+	of a fifth is 1.5000 / 1.4983 = 1.0011.) Add this to your table.
+
+	Which intervals show more disagreement? Which ones show less?
+
+      \item {\it Extra credit, related to the last question:} you will notice that one interval, in particular, is very far off: the one from $C$ to $B\flat$, which 
+	forms the seventh of the C7 chord we used as our example.
+
+	It is common practice in blues music to lower certain notes, called ``blue notes'', by an amount smaller than a semitone when the performer is playing an instrument
+	without fixed pitch. For instance, in the key of C, the notes $E\flat$ and $B\flat$ (and sometimes others) may be lowered a small amount. Why do you think blues players
+	do this? Is this an ``unnatural'' tuning, or is it more ``natural''? (Note: There is some good information about this to be had on Wikipedia. But it is not enough to 
+	just tell me what Wikipedia says; relate your answer to the answer to the previous question!)
+	
+      \item We need to resolve this disagreement.
+
+	The note $A_5$ has a frequency of 880 Hz.
+
+	Calculate the frequency of the note $C^\sharp_6$ -- that is, a major third above $A_5$ -- using both methods. 
+	
+	Then, open up two tabs of \url {http://www.szynalski.com/tone-generator/}. Set the volume on both to around 15 percent.
+
+	Play two combinations together:
+
+	\begin{itemize}
+	  \item 880 Hz plus the value you calculated for $C^\sharp_6$ using the ``equitempered tuning'' definition of the major third
+	  \item 880 Hz plus the value you calculated for $C^\sharp_6$ using the ``harmonic series'' definition of the major third
+	\end{itemize}
+
+	Comment on how they sound. Which one sounds better in tune? Which tuning system does this procedure suggest we use?
+
+      \item Compare the frequencies of the 5th harmonic of $A_5$ and the 4th harmonic of $C^\sharp_6$. Do this for both methods of choosing the frequency of $C^\sharp_6$. 
+	You may do this either empirically using your spectrogram or mathematically. Does this relate to your answer to the previous question?
+
+      \item A major third is four halfsteps, so three major thirds should give you an octave. 
+
+	So, this means that if you multiply the ratio for a major third by itself three times, you should get 2.
+
+	Do this for both the ``equitempered tuning'' definition of the major third, and the ``harmonic series'' definition. What do you get?
+
+      \item Write a discussion of a paragraph or two about what your calculations tell you about the mathematics of how we tune our musical instruments.
+	Is our tuning system a good one? Are there any alternatives that we might use that would work better? What would be required to make pianos ``perfectly in tune,
+	always, regardless of what you play''? This discussion will be a major part of the grade for this assignment, so don't skimp on it!
+	
+
+
+
+
+    \end{enumerate}
+
+  \end{document}
