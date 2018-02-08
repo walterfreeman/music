@@ -35,7 +35,7 @@ or if anything today wasn't clear
 * **Work on Homework 1**
 * Read pages 47-66 -- a look forward to what we will do next week.
 
-* **Homework 2 is due February 9**
+* **Homework 2 is due February 12**
 
 ### Next week we will:
 
