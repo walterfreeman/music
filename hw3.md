@@ -15,7 +15,7 @@ but drawing these pictures is trickier than it looks, so you should practice thi
 
 2. Suppose you have such a string tuned to the note $E_4$, as in the highest string on a guitar. Label (on your diagrams) the frequencies of each of these harmonics.
 
-3. Remember that the wave speed is $v=\sqrt{T}{\mu}$, where $T$ is the tension on the string in newtons, and $\mu$ is the linear mass density in kilograms per meter.
+3. Remember that the wave speed is $v=\sqrt{T/\mu}$, where $T$ is the tension on the string in newtons, and $\mu$ is the linear mass density in kilograms per meter.
    (Recall the relationship between wave speed, wavelength, and frequency $c=f\lambda$.)
    Suppose that you have a string of length 70 centimeters and mass density $\mu=0.0004$ kg/m. If you want to tune this string to $E_4$, how much tension must you apply?
 
