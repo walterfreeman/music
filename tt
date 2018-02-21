@@ -1,0 +1,72 @@
+
+Today you'll build a monochord -- a simple stringed instrument that acts like one string on a guitar. (You may of course build multiple strings if you want!) You
+will do this by running strings over your tables and tying weights on the ends to apply tension.
+
+Much of the fun consists of figuring things out here on your own. However, I want to give you a few pointers that I learned the hard way, that are not terribly
+interesting.
+
+\begin{itemize}
+
+\item The best way to put tension on the string is to get two stacks of weights attached to either end, one heavier than the other. The heavier one sits on the floor;
+the lighter one hangs in the iar.
+
+\item The tension on the string is equal to the weight of the lighter stack of weights -- the one hanging in the air.
+
+\item  The light strings will break if you put more than 2 kg on them (*maybe* 2.5kg). The heavy strings can deal with more, 7-8 kg. Breaking one or two during class
+is fine. But try not to break ten of them, especially the heavy ones.
+
+\item You might want to use something to elevate the strings a little bit above the surface of the desks. We have wooden dowels for this, but you might have issues using them.
+Anything else you can find that works better is great! However, the desks are a bit concave, so you may not need anything. 
+
+\item A convenient way to get your stuff cut to the right length is to first tie one end of the string to the heavy weight on the floor. Then, 
+set the light weight on a chair on the other side, tie it off, and then remove the chair while gently supporting the weight. We only have one pair of wire cutters,
+so you'll have to share those.
+
+\end{itemize}
+
+\begin{enumerate}
+
+Every group needs to do the following:
+
+\item You'll need to figure out how to change pitch, mimicking the frets on a guitar. Calculate where the first twelve frets go; we have meter sticks for you to use
+to measure things, and you can write on the desks in pencil if you want. (Clean up after you're done, of course!) You'll want to check your calculations by ear.
+Show me this once you've gotten it done! It'll help to do all the math on a piece of paper to calculate where the marks go, then make them.
+
+
+\item When you quadruple the weight (from 1 kg to 4 kg, or 1.5 kg to 6 kg) on one of the thick strings, how does the musical pitch change? Predict your answer first,
+using the fact that the wavespeed $v=\sqrt{T/\mu}$, then measure it and see! You should be able to hear this.
+
+
+\item How does the musical pitch change when you double the weight? (From 1 kg to 2 kg on the thin strings, or more on the thick strings -- remember the limits!)
+Estimate the number of half-steps first, then measure it. You may not be able to hear this unless you're experienced at music theory, but if not -- think of ways to
+check it!
+
+\item Figure out and play a tune on your string! Simple places to start might be the melody to the {\it Ode to Joy} (Beethoven / Anthem of Europe) or 
+{\it Somewhere over the Rainbow}, which I can write on the board for you. Once you figure out how to do this, show me!
+
+\item Experiment with plucking your string in different places -- halfway down its length, one-third of the way down its length, and so forth. (You should notice
+a distinct change in the sound when you play it precisely at the center.) Observe this with a spectrum analyzer. What's going on? (This is your homework, too -- 
+figure it out here and you have less to do later!)
+
+\item Try to do what guitar players call ``playing harmonics'' by touching the string exactly halfway down its length lightly with one finger while you play
+it with the other. You should hear a tone ringing out an octave above. What's going on here? Can you get this to work one-third of the way down its length?
+Call me over and talk about this with me.
+
+\item Calculate the linear mass density of one or both of your strings. (It's up to you to figure out how to do this -- remember you have both 
+an online tone generator and a spectrogram to use as tools, if you want either.) Once you figure this out, let me know, so we can collect the values
+on the board and see if they come out the same. {\it Note: The tension in the formula $v=\sqrt{T/\mu}$ is in newtons. One kilogram weighs 9.8 newtons.)}
+
+\vspace{2in}
+
+{\it As a challenge project for extra credit:}
+
+\item Can you get {\it two} strings tuned so that they have a set number of halfsteps between them, allowing you to play harmony? (For instance,
+most pairs of strings on a guitar have an interval of a fourth between them, five halfsteps. But you may choose some other number that's easy for you
+to do.)
+
+You will need a way of making small tuning adjustments -- it's up to you to figure out how to do this. If you do this, play a tune on multiple strings
+together, and show me!
+ 
+\end{enumerate}
+
+\end{document}
