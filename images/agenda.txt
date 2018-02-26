@@ -1,0 +1,16 @@
+Intro music (Cantata in memoriam)
+Jiaxin's presentation
+If she did a good job: move on to decibel stuff
+Things that should be mentioned if she omitted them:
+
+- stick-slip mechanism diagram
+- mechanics of air-cavity resonance
+- violin body as an air cavity: the f-holes and the generated air resonance
+- wood resonance -- these two are tuned to D4 and A4
+- other wood resonances provide many additional peaks
+- complex vibrations of instrument body affect radiative efficiency at high frequencies; measure formant of Jiaxin's
+- other instruments -- bigger dimensions, lower resonances
+- pizzicato playing technique
+
+
+
