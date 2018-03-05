@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Project 3
+title: Lab 1
 category: top
-permalink: hw3.html
+permalink: lab1.html
 menu: top
 use_math: true
 ---

@@ -15,7 +15,7 @@ double friction(double v2)
 {
   v2*=3;
   double v=fabs(v2);
-  return -(4-log((v+vcrit))) * fabs(v)/v2;
+  return (-(4-log((v+vcrit))) * fabs(v)/v2)*1;
 }
 
 
@@ -26,7 +26,7 @@ int main(void)
 
  double x=0;
  double v=0;
- double dt=0.0001;
+ double dt=0.00008;
  double m=1;
  int fs=200;
  int f=0;
