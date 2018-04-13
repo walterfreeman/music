@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homework 5 
+title: Project 5 
 category: top
 permalink: hw5.html
 menu: top

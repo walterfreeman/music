@@ -24,6 +24,21 @@ in the performance.
 
 If you do your own research, you should cite your sources in any clear way that you find convenient. If you want to reference recordings, YouTube links would be appreciated.
 
+### Writing about a concert
+
+If you attend a concert and write about it, you may choose to write about several different things. What you focus on will depend on what you found interesting and what sort of
+show you attended. Regardless, however, you should discuss the connection between the *sounds you heard* and the *physics that produced them*. Some things you might address could be:
+
+* What sort of room was the concert played in? Did it suit the instruments, players, and type of music?
+* How do the performers' instruments work? What did you notice about them? Did their technique match what you know about the physics of their instruments?
+* Did you hear anything unusual or notable? Did the performers do anything strange, or did the music itself include any acoustically interesting elements?
+* If the concert involves multiple instruments, how do their sounds differ? Do the different timbres and frequency-spectrum characteristics of the instruments complement each other in an aesthetically-interesting way? 
+What properties do they have in common, and how do they differ? 
+    * Note: in a classical concert held in a formal setting, like Setnor Auditorium, it is bad etiquette to use your cellphone during a performance, even to run your spectrum analyzer. Pop/rock/jazz concerts probably don't care...
+
+
+
+
 ### Some possible paper topics
 
 Here are some suggested topics. If you want to propose your own, feel free!
