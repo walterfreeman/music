@@ -5,19 +5,17 @@ use_math: true
 title: Welcome to Physics of Music!
 ---
 
-### This week
+<a href="EU-anthem.ogg">160kbps Vorbis</a><br>
 
-*Today*: Finish our discussion of stringed instruments, then start a discussion of standing waves in pipes
+<a href="EU-anthem-16kbps.mp3">16kbps MP3</a><br>
+<a href="EU-anthem-40kbps.mp3">40kbps MP3</a><br>
+<a href="EU-anthem-56kbps.mp3">56kbps MP3</a><br>
 
-*Wednesday*: Guest presentation by Britton Plourde on flutes
+<a href="EU-anthem-quality0.ogg">56kbps Vorbis</a><br>
 
-
-### Office hours
-
-I've decided to hold office hours:
-
-* Wednesday: 4:30-6:30
-* Thursday: 3:00-5:00
+<a href="EU-anthem-16kbps.opus">16kbps Opus</a><br>
+<a href="EU-anthem-24kbps.opus">24kbps Opus</a><br>
+<a href="EU-anthem-56kbps.opus">56kbps Opus</a><br>
 
 ### Resources
 
