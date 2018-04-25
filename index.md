@@ -5,6 +5,9 @@ use_math: true
 title: Welcome to Physics of Music!
 ---
 
+
+<b><a href="https://docs.google.com/spreadsheets/d/1lLRLoqReaHdoqZ1dift7NOEMM5lEvnkW3ohpsJdX9nA/edit?usp=sharing">Final discussion schedule -- sign up!</a></b>
+
 <a href="EU-anthem.ogg">160kbps Vorbis</a><br>
 
 <a href="EU-anthem-16kbps.mp3">16kbps MP3</a><br>
